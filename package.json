@@ -1,0 +1,22 @@
+{
+    "name": "com.hypergnosys.character-customization",
+    "version": "1.0.0",
+    "displayName": "HGCharacterCustomization",
+    "description": "A system to create customizable characters that share animations",
+    "unity": "2020.3",
+    "unityRelease": "11f1",
+    "documentationUrl": "https://github.com/Rahgnoruk/HGCharacterCustomization",
+    "changelogUrl": "https://github.com/Rahgnoruk/HGCharacterCustomization",
+    "licensesUrl": "https://github.com/Rahgnoruk/HGCharacterCustomization",
+    "keywords": [
+      "HyperGnosys",
+      "Character Customization"
+    ],
+    "author": {
+      "name": "Sergio Raimond",
+      "email": "sergio.raimond@hypergnosys.com",
+      "url": "https://www.hypergnosys.com"
+    },
+    "dependencies": {
+    }
+  }
